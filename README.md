@@ -5,5 +5,5 @@ Q2: K Nearest Neighbors
        
 Q3: K-means                 
          
-Q4: TF Image Preprocessing                 
+Q4: TF Image Preprocessing                  
      
