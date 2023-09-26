@@ -7,4 +7,4 @@ Q3: K-means
          
 Q4: TF Image Preprocessing                       
         
-Q5       
+Q5        
