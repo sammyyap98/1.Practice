@@ -4,7 +4,7 @@ is generalizable into the test and validation data sets
 '''
 
 import tensorflow as tf
-from tensorflow.keras import layers
+from tensorflow.keras import layers 
 
 
 def get_image_preprocessing_pipeline(input_size, resize):
