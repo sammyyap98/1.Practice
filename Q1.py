@@ -1,7 +1,7 @@
 import numpy as np
 import math
 
-class Neuron:
+class Neuron: 
     def __init__(self, examples):
         np.random.seed(42)
         # Three weights: one for each feature and one more for the bias.
