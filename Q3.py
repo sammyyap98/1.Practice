@@ -4,7 +4,7 @@ import random
 class Centroid:
     def __init__(self, location):
         self.location = location
-        self.closest_users = set()
+        self.closest_users = set() 
 
 
 def get_k_means(user_feature_map, num_features_per_user, k):
