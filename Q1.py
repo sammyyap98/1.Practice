@@ -1,5 +1,5 @@
 import numpy as np
-import math
+import math 
 
 class Neuron: 
     def __init__(self, examples):
